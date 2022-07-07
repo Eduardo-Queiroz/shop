@@ -19,7 +19,7 @@
     "axios": "^0.18.0",
     "cavy": "^4.0.0",
     "formik": "^2.1.4",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-config": "^1.2.1",
